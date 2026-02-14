@@ -2,7 +2,7 @@
 A collection of tweaks, fixes, and moddability support features for Ultimate Admiral: Dreadnoughts.
 
 ## New Management
-[NathanKell](https://github.com/NathanKell) wrote the foundation for TAF that I am extending from. They stopped development in early 2025 and are unlikely to return. I will take over the project for the forseeable future.
+[NathanKell](https://github.com/NathanKell) wrote the foundation for TAF that DukeDagor is extending from. They stopped development in early 2025 and are unlikely to return. They will take over the project for the forseeable future.
 
 ## Focus/Bugs/Feedback/Suggesstions/Help
 My development will be focused around Brother Munro's [Dreadnought Improvement Project](https://www.nexusmods.com/ultimateadmiraldreadnoughts/mods/7?tab=description), though TAF will still be usable as a standalone mod. If you encounter any bugs while using TAF, please report them in as much detail as possible.
